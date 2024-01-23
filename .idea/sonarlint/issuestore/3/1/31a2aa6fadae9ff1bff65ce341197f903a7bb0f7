@@ -1,13 +1,17 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó…Ûßıÿÿÿÿ8°‰¹Ó1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„å¡¦8±‰¹Ó1
-G	java:S106"+Replace this use of System.out by a logger.(Îú8Á‰¹Ó1
-L	java:S106"+Replace this use of System.out by a logger.(†„Ã¼øÿÿÿÿ8Â‰¹Ó1
-L	java:S106"+Replace this use of System.out by a logger.(ÑÔ¸ìûÿÿÿÿ8Â‰¹Ó1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó…Ûßıÿÿÿÿ8¼ö˜²Ó1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„å¡¦8Áö˜²Ó1
+G	java:S106	"+Replace this use of System.out by a logger.(Îú8Óö˜²Ó1
+L	java:S106"+Replace this use of System.out by a logger.(†„Ã¼øÿÿÿÿ8×ö˜²Ó1
+L	java:S106"+Replace this use of System.out by a logger.(ÑÔ¸ìûÿÿÿÿ8Ùö˜²Ó1
 s
-java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(àöîñ8Â‰¹Ó1
-G	java:S106"+Replace this use of System.out by a logger.(İ£«€8´ºÓ1
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(àöîñ8Ûö˜²Ó1
+G	java:S106"+Replace this use of System.out by a logger.(İ£«€8ßö˜²Ó1
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8Øæœ²Ó1
+G	java:S106!"+Replace this use of System.out by a logger.(Áï ½8û—Ÿ²Ó1
 x
-java:S4276""VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¹Ù„•ıÿÿÿÿ8Å‰¹Ó1
+java:S4276'"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¹Ù„•ıÿÿÿÿ8õö˜²Ó1
 ~
-java:S4276'"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(‚îÒÕıÿÿÿÿ8Ç‰¹Ó1
+java:S4276,"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(‚îÒÕıÿÿÿÿ8øö˜²Ó1
+
+java:S42766"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(©­¡Äùÿÿÿÿ8úö˜²Ó1
