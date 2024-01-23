@@ -8,6 +8,6 @@ s
 java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(àöîñ8Â‰¹Ó1
 G	java:S106"+Replace this use of System.out by a logger.(İ£«€8´ºÓ1
 x
-java:S4276 "VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¹Ù„•ıÿÿÿÿ8Å‰¹Ó1
+java:S4276""VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¹Ù„•ıÿÿÿÿ8Å‰¹Ó1
 ~
-java:S4276%"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(‚îÒÕıÿÿÿÿ8Ç‰¹Ó1
+java:S4276'"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(‚îÒÕıÿÿÿÿ8Ç‰¹Ó1

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31a2aa6fadae9ff1bff65ce341197f903a7bb0f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31a2aa6fadae9ff1bff65ce341197f903a7bb0f7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/expressions/lambda/expressionsLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/functionalInterface/_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +52,11 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.expressionsLambda">
     <configuration name="_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalInterface._Function" />
       <module name="java-functional" />
@@ -68,8 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="expressionsLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.expressions.lambda.expressionsLambda" />
+      <module name="java-functional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.expressions.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.expressionsLambda" />
         <item itemvalue="Application._Function" />
       </list>
     </recent_temporary>
@@ -82,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705938274067</updated>
-      <workItem from="1705938275281" duration="1933000" />
+      <workItem from="1705938275281" duration="5239000" />
     </task>
     <servers />
   </component>

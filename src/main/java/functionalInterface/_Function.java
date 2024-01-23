@@ -24,6 +24,8 @@ public class _Function {
         Function<Integer,Integer> addBy1AndThenMultiplyBy10 =incrementByOneFunction.andThen(multiplyBy10Function);
 
         System.out.println( addBy1AndThenMultiplyBy10.apply(4));
+
+
     }
 
     /**
