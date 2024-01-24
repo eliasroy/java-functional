@@ -9,3 +9,5 @@ k
 ;src/main/java/com/expressions/lambda/expressionsLambda.java,b\d\bd5ba4cef3451b6221582a17584c74b533274c52
 `
 0src/main/java/functionalInterface/_Consumer.java,6\1\6165b443841ec893fa501f57721a8ce9c366802f
+g
+7src/main/java/com/expressions/lambda/model/Student.java,b\e\bedc1371550cf7fdc2960edd0f4cc7dbe32a29b7

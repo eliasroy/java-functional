@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6165b443841ec893fa501f57721a8ce9c366802f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6165b443841ec893fa501f57721a8ce9c366802f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/expressions/lambda/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd5ba4cef3451b6221582a17584c74b533274c52" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd5ba4cef3451b6221582a17584c74b533274c52" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/functionalInterface/_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/expressions/lambda/expressionsLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/expressions/lambda/expressionsLambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._Consumer">
+  <component name="RunManager" selected="Application.expressionsLambda">
     <configuration name="_Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalInterface._Consumer" />
       <module name="java-functional" />
@@ -97,9 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.expressionsLambda" />
         <item itemvalue="Application._Consumer" />
         <item itemvalue="Application._Function" />
-        <item itemvalue="Application.expressionsLambda" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705938274067</updated>
       <workItem from="1705938275281" duration="5239000" />
-      <workItem from="1706012195173" duration="4072000" />
+      <workItem from="1706012195173" duration="6198000" />
     </task>
     <servers />
   </component>
