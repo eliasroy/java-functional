@@ -1,5 +1,16 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üå„Æûÿÿÿÿ8£ŠÇ²Ó1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„å¡¦8¦ŠÇ²Ó1
-L	java:S106"+Replace this use of System.out by a logger.(‰¸¿¢øÿÿÿÿ8¸ŠÇ²Ó1
-G	java:S106"+Replace this use of System.out by a logger.(âÔ¢‚8ºŠÇ²Ó1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Hello " 3 times.(‰¸¿¢øÿÿÿÿ8Ê™ÐçÓ1
+‰
+java:S1192"gDefine a constant instead of duplicating this literal ", thanks for registering phone number " 3 times.(‰¸¿¢øÿÿÿÿ8Ë™ÐçÓ1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "ELIAS" 3 times.(¦…é¹8¨¶×çÓ1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "999999999" 3 times.(¦…é¹8¨¶×çÓ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üå„Æûÿÿÿÿ8Ë™ÐçÓ1
+J
+java:S5411"(Use a primitive boolean expression here.(ç«ïÈþÿÿÿÿ8•ÖÕçÓ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„å¡¦8Ì™ÐçÓ1
+L	java:S106"+Replace this use of System.out by a logger.(‰¸¿¢øÿÿÿÿ8Û™ÐçÓ1
+L	java:S106"+Replace this use of System.out by a logger.(ç«ïÈþÿÿÿÿ8Û™ÐçÓ1
+G	java:S106"+Replace this use of System.out by a logger.(âÔ¢‚8Û™ÐçÓ1
