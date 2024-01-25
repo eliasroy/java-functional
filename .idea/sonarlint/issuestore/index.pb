@@ -11,3 +11,5 @@ k
 0src/main/java/functionalInterface/_Consumer.java,6\1\6165b443841ec893fa501f57721a8ce9c366802f
 g
 7src/main/java/com/expressions/lambda/model/Student.java,b\e\bedc1371550cf7fdc2960edd0f4cc7dbe32a29b7
+`
+0src/main/java/functionalInterface/_Prdicate.java,0\d\0dcbd98e937ef3b1e523e17bfb3e480ee8f38b3a
