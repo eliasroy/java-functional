@@ -1,0 +1,22 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌ©ë8ƒÔşÔ1
+]
+java:S1854";Remove this useless assignment to local variable "println".(¶«ğÅüÿÿÿÿ8ÔşÔ1
+\
+java:S1854":Remove this useless assignment to local variable "length".(Œº‹úÿÿÿÿ8ÔşÔ1
+j
+java:S1854"HRemove this useless assignment to local variable "personStringFunction".(×ô“¸üÿÿÿÿ8ÔşÔ1
+[
+java:S1481"9Remove this unused "personStringFunction" local variable.(×ô“¸üÿÿÿÿ8’ÔşÔ1
+M
+java:S1481"+Remove this unused "length" local variable.(Œº‹úÿÿÿÿ8“ÔşÔ1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¶«ğÅüÿÿÿÿ8“ÔşÔ1
+L	java:S106"+Replace this use of System.out by a logger.(¶«ğÅüÿÿÿÿ8”ÔşÔ1
+N
+java:S1481",Remove this unused "println" local variable.(¶«ğÅüÿÿÿÿ8”ÔşÔ1
+L	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8–ÔşÔ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8˜ÔşÔ1
+G
+java:S1068!"*Remove this unused "gender" private field.(¡Ãæú8˜ÔşÔ1

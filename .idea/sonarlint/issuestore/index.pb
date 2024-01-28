@@ -21,3 +21,5 @@ a
 1src/main/java/functionalInterface/_Inference.java,1\c\1c25c762156451e04811ca74c95959fd605f1901
 `
 0src/main/java/functionalInterface/_Supplier.java,3\a\3adf99f2c28847a810b72bb5b539c45b9afa5dae
+R
+"src/main/java/streams/_Stream.java,f\9\f9e441aaabd6307d8a60ef0595f338256aeeeda9
