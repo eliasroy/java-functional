@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Refrerence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43d1759643d5fc5ccf9e5811328498d3cf4dfd3c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67ac202061a7c121d4ec480334e01595a48bf3a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/fff8800dffff6262a4a2b7136e5b0553cb79a3ea" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Inference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/3/43d1759643d5fc5ccf9e5811328498d3cf4dfd3c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/7/67ac202061a7c121d4ec480334e01595a48bf3a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/f/fff8800dffff6262a4a2b7136e5b0553cb79a3ea" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/functionalInterface/_Refrerence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Refrerence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +143,7 @@
       <updated>1705938274067</updated>
       <workItem from="1705938275281" duration="5239000" />
       <workItem from="1706012195173" duration="9803000" />
-      <workItem from="1706403876691" duration="310000" />
+      <workItem from="1706403876691" duration="780000" />
     </task>
     <servers />
   </component>

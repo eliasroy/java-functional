@@ -17,3 +17,5 @@ b
 2src/main/java/functionalInterface/_functional.java,b\5\b56b9aaaf2fdff1209ab139152eb2e9516cce46e
 b
 2src/main/java/functionalInterface/_Refrerence.java,7\e\7ec41bcb7c82b88f9ec9f8f9576e0f44064c2e23
+a
+1src/main/java/functionalInterface/_Inference.java,1\c\1c25c762156451e04811ca74c95959fd605f1901

@@ -1,0 +1,23 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğÂµøÿÿÿÿ8”ê’íÔ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„å¡¦8•ê’íÔ1
+g
+java:S1854
+"ERemove this useless assignment to local variable "converterFunction".(ÎÉ¤ûûÿÿÿÿ8šê’íÔ1
+{
+java:S4276
+"YRefactor this code to use the more specialised Functional Interface 'IntFunction<String>'(ÎÉ¤ûûÿÿÿÿ8›ê’íÔ1
+^
+java:S1612"<Replace this lambda with method reference 'String::valueOf'.(áĞ½İúÿÿÿÿ8ê’íÔ1
+X
+java:S1481
+"6Remove this unused "converterFunction" local variable.(ÎÉ¤ûûÿÿÿÿ8 ê’íÔ1
+\
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ù½t8¡ê’íÔ1
+F	java:S106"+Replace this use of System.out by a logger.(ù½t8¡ê’íÔ1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ğûŠ‹ûÿÿÿÿ8¢ê’íÔ1
+L	java:S106"+Replace this use of System.out by a logger.(ğûŠ‹ûÿÿÿÿ8£ê’íÔ1
+L	java:S106"+Replace this use of System.out by a logger.(­¸¤Êúÿÿÿÿ8£ê’íÔ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¤ê’íÔ1

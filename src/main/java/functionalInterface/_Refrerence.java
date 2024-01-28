@@ -16,7 +16,7 @@ public class _Refrerence {
         names.forEach(System.out::println);
 
     }
-    static  <T>List<T>getList(T ... elements){
+    public static  <T>List<T>getList(T ... elements){
         return List.of(elements);
     }
 
