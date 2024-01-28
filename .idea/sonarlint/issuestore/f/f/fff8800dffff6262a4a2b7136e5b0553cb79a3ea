@@ -1,7 +1,0 @@
-
-U
-java:S1854"8Remove this useless assignment to local variable "ages".(“¡ÞÆ8¨ñÔ°Ô1
-M
-java:S1481"+Remove this unused "result" local variable.(Ó°¬Ñøÿÿÿÿ8«ñÔ°Ô1
-F
-java:S1481")Remove this unused "ages" local variable.(“¡ÞÆ8Ò’Ö°Ô1
