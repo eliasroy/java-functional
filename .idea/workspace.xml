@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9e441aaabd6307d8a60ef0595f338256aeeeda9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f9e441aaabd6307d8a60ef0595f338256aeeeda9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Sintax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/_Stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +142,7 @@
       <updated>1705938274067</updated>
       <workItem from="1705938275281" duration="5239000" />
       <workItem from="1706012195173" duration="9803000" />
-      <workItem from="1706403876691" duration="4547000" />
+      <workItem from="1706403876691" duration="6447000" />
     </task>
     <servers />
   </component>

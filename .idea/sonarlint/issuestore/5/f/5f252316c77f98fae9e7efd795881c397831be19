@@ -1,0 +1,19 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áĞƒÖùÿÿÿÿ8¾¯©Õ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„å¡¦8¾¯©Õ1
+m	java:S114-"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ï´ÏŒ8¾¯©Õ1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ç§Ñşÿÿÿÿ8–¾¯©Õ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ü±Œú8–¾¯©Õ1
+
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßĞÏË8–¾¯©Õ1
+
+java:S1186$"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş¥‰@8–¾¯©Õ1
+L	java:S106"+Replace this use of System.out by a logger.(Õó¶ëûÿÿÿÿ8™¾¯©Õ1
+G	java:S106"+Replace this use of System.out by a logger.(Î’ÛÚ8š¾¯©Õ1
+F	java:S106"+Replace this use of System.out by a logger.(œ™À8›¾¯©Õ1
+L	java:S106"+Replace this use of System.out by a logger.(œÆ«±ûÿÿÿÿ8›¾¯©Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(–Ëå©üÿÿÿÿ8â²©Õ1
+z
+java:S4276!"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ßĞÏË8ß÷±©Õ1

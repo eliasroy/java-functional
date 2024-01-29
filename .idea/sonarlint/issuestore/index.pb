@@ -23,3 +23,5 @@ a
 0src/main/java/functionalInterface/_Supplier.java,3\a\3adf99f2c28847a810b72bb5b539c45b9afa5dae
 R
 "src/main/java/streams/_Stream.java,f\9\f9e441aaabd6307d8a60ef0595f338256aeeeda9
+^
+.src/main/java/functionalInterface/_Sintax.java,5\f\5f252316c77f98fae9e7efd795881c397831be19
