@@ -3,6 +3,7 @@ package streams;
 import java.util.List;
 import java.util.function.Function;
 import java.util.function.IntConsumer;
+import java.util.function.Predicate;
 import java.util.function.ToIntFunction;
 import java.util.stream.Collectors;
 
@@ -26,7 +27,22 @@ public class _Stream {
                 .mapToInt(String::length)
                 .forEach(System.out::println);
 
+        //inferemce
+       boolean si=people.stream()
+                .anyMatch(person -> person.gender.equals(MALE));
+        System.out.println(si);
+
+        //no inference
+        Predicate <Person> personPredicate = person -> FEMALE.equals(person.gender);
+        boolean si2=people.stream()
+                .anyMatch(personPredicate);
+        System.out.println(si2);
+
+
+
+
     }
+
 
     static class Person {
         private final String name;
