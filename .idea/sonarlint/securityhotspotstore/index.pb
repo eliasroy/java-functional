@@ -25,3 +25,7 @@ R
 "src/main/java/streams/_Stream.java,f\9\f9e441aaabd6307d8a60ef0595f338256aeeeda9
 ^
 .src/main/java/functionalInterface/_Sintax.java,5\f\5f252316c77f98fae9e7efd795881c397831be19
+f
+6src/main/java/functionalInterface/_StringFuntions.java,f\8\f88b40658cd1cd9e8eb4901bc62fd7090574b7f0
+`
+0src/main/java/functionalInterface/_Chaining.java,8\5\856370f80f0897d3646b999306b517735a0d8f21
