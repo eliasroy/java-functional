@@ -33,3 +33,5 @@ e
 5src/main/java/functionalInterface/MathOperations.java,3\b\3b6c525d1b9f7d0e244fc56162dfe5d70dec1b7e
 _
 /src/main/java/functionalInterface/_Compose.java,d\b\dbf6187aab1a95ef07a5d7427ce11723012eb764
+Q
+!src/main/java/Optionals/Main.java,2\d\2dc954cdbaa53c6567ac0a077ee970c5fc587f8a
