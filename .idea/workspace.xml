@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Chaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/MathOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/functionalInterface/_StringFuntions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_StringFuntions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._Chaining">
+  <component name="RunManager" selected="Application._Compose">
     <configuration name="_Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="functionalInterface._Chaining" />
       <module name="java-functional" />
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Refrerence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface._Refrerence" />
+    <configuration name="_Compose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functionalInterface._Compose" />
       <module name="java-functional" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._Compose" />
         <item itemvalue="Application._Chaining" />
         <item itemvalue="Application._StringFuntions" />
         <item itemvalue="Application._Stream" />
         <item itemvalue="Application._Supplier" />
-        <item itemvalue="Application._Refrerence" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +143,7 @@
       <workItem from="1705938275281" duration="5239000" />
       <workItem from="1706012195173" duration="9803000" />
       <workItem from="1706403876691" duration="8294000" />
-      <workItem from="1706654451004" duration="889000" />
+      <workItem from="1706654451004" duration="1749000" />
     </task>
     <servers />
   </component>
