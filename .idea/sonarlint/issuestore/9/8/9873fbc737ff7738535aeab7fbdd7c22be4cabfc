@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ô½ñô8ø×üªÖ1
+\
+java:S1128":Remove this unused import 'functionalInterface._Consumer'.(ÐÜ¦ûüÿÿÿÿ8ŸŒþªÖ1
+T
+java:S1128"2Remove this unused import 'java.beans.Customizer'.(”íí„ýÿÿÿÿ8ŸŒþªÖ1

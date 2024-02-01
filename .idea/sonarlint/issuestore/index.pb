@@ -37,3 +37,9 @@ Q
 !src/main/java/Optionals/Main.java,2\d\2dc954cdbaa53c6567ac0a077ee970c5fc587f8a
 V
 &src/main/java/Optionals/Optionals.java,2\0\20dd13d8ffefe89698ed9b2953d4ecbaa00c31ae
+]
+-src/main/java/combinatorpattern/Custumer.java,5\6\5631659d0034216238c1248ae0933885b2cbdbfe
+m
+=src/main/java/combinatorpattern/CustumerValidatorService.java,b\2\b23241cc3820de4e1ddf339a4d98b196adb3fb42
+Y
+)src/main/java/combinatorpattern/Main.java,9\8\9873fbc737ff7738535aeab7fbdd7c22be4cabfc
