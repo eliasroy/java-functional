@@ -1,0 +1,27 @@
+
+h
+java:S1192*"FDefine a constant instead of duplicating this literal "Rohit" 5 times.(Øý²ìúÿÿÿÿ8Ä¼È©Ö1
+h
+java:S1192*"FDefine a constant instead of duplicating this literal "Rahul" 6 times.(Øý²ìúÿÿÿÿ8Å¼È©Ö1
+h
+java:S1192*"FDefine a constant instead of duplicating this literal "Rajat" 5 times.(Øý²ìúÿÿÿÿ8Å¼È©Ö1
+z
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "names".(‘¹Ñ§8Å¼È©Ö1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Šã‹Œøÿÿÿÿ8Å¼È©Ö1
+T
+java:S2589"7Remove this expression which always evaluates to "true"(êŸõƒ8Ì¼È©Ö1
+a
+java:S2583	"DChange this condition so that it does not always evaluate to "false"(Ò•åÿ8Ì¼È©Ö1
+V
+java:S1854"9Remove this useless assignment to local variable "value".(§ÀºÆ8ãîÈ©Ö1
+L	java:S106
+"+Replace this use of System.out by a logger.(šõðœùÿÿÿÿ8Î¼È©Ö1
+G	java:S106"+Replace this use of System.out by a logger.( ÝæŠ8Î¼È©Ö1
+G	java:S106"+Replace this use of System.out by a logger.(ÓÑž×8Ï¼È©Ö1
+F	java:S106"+Replace this use of System.out by a logger.(Èº¿u8Ï¼È©Ö1
+G	java:S106"+Replace this use of System.out by a logger.(Ø›ä¤8Ï¼È©Ö1
+G
+java:S1481"*Remove this unused "value" local variable.(§ÀºÆ8åîÈ©Ö1
+V
+java:S3400&"9Remove this method and declare a constant for this value.(”·³›8Ñ¼È©Ö1
+X	java:S125/"<This block of commented-out lines of code should be removed.(„é“Î8Ò¼È©Ö1

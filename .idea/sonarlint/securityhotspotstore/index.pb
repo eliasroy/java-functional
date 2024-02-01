@@ -35,3 +35,5 @@ _
 /src/main/java/functionalInterface/_Compose.java,d\b\dbf6187aab1a95ef07a5d7427ce11723012eb764
 Q
 !src/main/java/Optionals/Main.java,2\d\2dc954cdbaa53c6567ac0a077ee970c5fc587f8a
+V
+&src/main/java/Optionals/Optionals.java,2\0\20dd13d8ffefe89698ed9b2953d4ecbaa00c31ae
