@@ -1,0 +1,10 @@
+
+U
+java:S1854	"8Remove this useless assignment to local variable "list".(µ†€Ü8„à¼ÐÖ1
+F
+java:S1481	")Remove this unused "list" local variable.(µ†€Ü8†à¼ÐÖ1
+]	java:S125"<This block of commented-out lines of code should be removed.(×ž›üÿÿÿÿ8†à¼ÐÖ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÍØ‹šüÿÿÿÿ8†à¼ÐÖ1
+L	java:S106"+Replace this use of System.out by a logger.(°ß¿òøÿÿÿÿ8ˆà¼ÐÖ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8Ñ¾ÐÖ1

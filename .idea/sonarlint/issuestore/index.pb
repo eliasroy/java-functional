@@ -29,8 +29,6 @@ f
 6src/main/java/functionalInterface/_StringFuntions.java,f\8\f88b40658cd1cd9e8eb4901bc62fd7090574b7f0
 `
 0src/main/java/functionalInterface/_Chaining.java,8\5\856370f80f0897d3646b999306b517735a0d8f21
-e
-5src/main/java/functionalInterface/MathOperations.java,3\b\3b6c525d1b9f7d0e244fc56162dfe5d70dec1b7e
 _
 /src/main/java/functionalInterface/_Compose.java,d\b\dbf6187aab1a95ef07a5d7427ce11723012eb764
 Q
@@ -43,3 +41,5 @@ m
 =src/main/java/combinatorpattern/CustumerValidatorService.java,b\2\b23241cc3820de4e1ddf339a4d98b196adb3fb42
 Y
 )src/main/java/combinatorpattern/Main.java,9\8\9873fbc737ff7738535aeab7fbdd7c22be4cabfc
+R
+"src/main/java/streams/Streams.java,3\b\3b3f142dda4cea833749b417fe1ec316326332d7
