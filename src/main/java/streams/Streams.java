@@ -17,5 +17,17 @@ public class Streams {
         Stream<String> enfhasis=streamss.map(c->c+"!");
         Stream<String> justJava=enfhasis.filter(c->c.contains("java"));
         justJava.forEach(System.out::println);
+
+        Stream<String> coursesStreamStringStream=list.stream();
+
+        addOperation(coursesStreamStringStream.filter(c->c.contains("java"))
+        ).forEach(System.out::println);
+
+        System.out.println("------------------");
+
+    }
+
+    static <T> Stream<T> addOperation(Stream<T> stream){
+        return stream.peek(c-> System.out.println("DATO"+c));
     }
 }
