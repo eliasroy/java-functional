@@ -43,3 +43,5 @@ Y
 )src/main/java/combinatorpattern/Main.java,9\8\9873fbc737ff7738535aeab7fbdd7c22be4cabfc
 R
 "src/main/java/streams/Streams.java,3\b\3b3f142dda4cea833749b417fe1ec316326332d7
+U
+%src/main/java/streams/TupeStream.java,6\3\635f9d64a826474ec19cfde2e1d8a9a4f1c45239

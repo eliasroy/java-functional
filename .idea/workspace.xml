@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b3f142dda4cea833749b417fe1ec316326332d7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b3f142dda4cea833749b417fe1ec316326332d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/TupeStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streams/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams/Streams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Streams">
+  <component name="RunManager" selected="Application.TupeStream">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Optionals.Main" />
       <module name="java-functional" />
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_Chaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterface._Chaining" />
+    <configuration name="TupeStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.TupeStream" />
       <module name="java-functional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterface.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TupeStream" />
         <item itemvalue="Application.Streams" />
         <item itemvalue="Application.combinatorpattern.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application._Compose" />
-        <item itemvalue="Application._Chaining" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +145,7 @@
       <workItem from="1706403876691" duration="8294000" />
       <workItem from="1706654451004" duration="7280000" />
       <workItem from="1706880306637" duration="1792000" />
-      <workItem from="1706990127265" duration="456000" />
+      <workItem from="1706990127265" duration="1280000" />
     </task>
     <servers />
   </component>
