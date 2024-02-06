@@ -47,3 +47,5 @@ U
 %src/main/java/streams/TupeStream.java,6\3\635f9d64a826474ec19cfde2e1d8a9a4f1c45239
 U
 %src/main/java/streams/Collectors.java,2\4\246fd91bdf560a88da5dd5213d31058e42ef8e9a
+s
+Csrc/main/java/combinatorpattern/CustumerResgistrationValidator.java,b\d\bd7a42d6b6c5a6c8bebb1591049ecd464052173c
