@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustumerResgistrationValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustumerValidatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustumerValidatorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustumerResgistrationValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustumerResgistrationValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +143,7 @@
       <workItem from="1706403876691" duration="8294000" />
       <workItem from="1706654451004" duration="7280000" />
       <workItem from="1706880306637" duration="1792000" />
-      <workItem from="1706990127265" duration="3013000" />
+      <workItem from="1706990127265" duration="4067000" />
     </task>
     <servers />
   </component>

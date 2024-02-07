@@ -16,10 +16,18 @@ public interface CustumerResgistrationValidator extends Function<Custumer, Valid
     static CustumerResgistrationValidator isAdult(){
       return custumer -> Period.between(custumer.getDob(), LocalDate.now()).getYears() > 16  ? ValidationResult.SUCCESS : ValidationResult.IS_NOT_AN_ADULT;
     }
-enum ValidationResult{
-   SUCCESS,
-    PHONE_NUMBER_NOT_VALID,
-    EMAIL_NOT_VALID,
-    IS_NOT_AN_ADULT
-}
+
+    default CustumerResgistrationValidator and (CustumerResgistrationValidator other){
+        return customer->{
+
+            ValidationResult result = this.apply(customer);
+            return result.equals(ValidationResult.SUCCESS) ? other.apply(customer) : result;
+        };
+    }
+    enum ValidationResult{
+      SUCCESS,
+       PHONE_NUMBER_NOT_VALID,
+        EMAIL_NOT_VALID,
+        IS_NOT_AN_ADULT
+    }
 }
