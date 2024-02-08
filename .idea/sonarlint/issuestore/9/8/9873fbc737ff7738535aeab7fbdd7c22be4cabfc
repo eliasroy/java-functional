@@ -1,6 +1,8 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(ô½ñô8ø×üªÖ1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ì×Â”8ê’ìÅØ1
+]	java:S125"<This block of commented-out lines of code should be removed.(£†‘÷ýÿÿÿÿ8ê’ìÅØ1
+L	java:S106"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ8…†ëÅØ1
 \
-java:S1128":Remove this unused import 'functionalInterface._Consumer'.(ÐÜ¦ûüÿÿÿÿ8ŸŒþªÖ1
+java:S1128":Remove this unused import 'functionalInterface._Consumer'.(ÐÜ¦ûüÿÿÿÿ8ÁÂïÅØ1
 T
-java:S1128"2Remove this unused import 'java.beans.Customizer'.(”íí„ýÿÿÿÿ8ŸŒþªÖ1
+java:S1128"2Remove this unused import 'java.beans.Customizer'.(”íí„ýÿÿÿÿ8ÂÂïÅØ1

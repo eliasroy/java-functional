@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7610f93-e628-4d4a-afe6-fbdeaf0acb3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/9873fbc737ff7738535aeab7fbdd7c22be4cabfc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/9873fbc737ff7738535aeab7fbdd7c22be4cabfc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustumerResgistrationValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/CustumerResgistrationValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/combinatorpattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/combinatorpattern/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TupeStream">
+  <component name="RunManager" selected="Application.combinatorpattern.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Optionals.Main" />
       <module name="java-functional" />
@@ -122,9 +124,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.combinatorpattern.Main" />
         <item itemvalue="Application.TupeStream" />
         <item itemvalue="Application.Streams" />
-        <item itemvalue="Application.combinatorpattern.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application._Compose" />
       </list>
@@ -144,6 +146,7 @@
       <workItem from="1706654451004" duration="7280000" />
       <workItem from="1706880306637" duration="1792000" />
       <workItem from="1706990127265" duration="4067000" />
+      <workItem from="1707314608009" duration="3462000" />
     </task>
     <servers />
   </component>

@@ -7,7 +7,7 @@ import static combinatorpattern.CustumerResgistrationValidator.*;
 
 public interface CustumerResgistrationValidator extends Function<Custumer, ValidationResult> {
 
-    static CustumerResgistrationValidator esEmailValid(){
+    static CustumerResgistrationValidator isEmailValid(){
         return custumer -> custumer.getEmail().contains("@") ? ValidationResult.SUCCESS : ValidationResult.EMAIL_NOT_VALID;
     }
     static CustumerResgistrationValidator isPhoneNumberValid(){
